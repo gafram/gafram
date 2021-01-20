@@ -2,7 +2,7 @@
 
 
 ### Languages and Tools
-![Java](https://img.shields.io/badge/-Java-284051)
+![Java](https://img.shields.io/badge/-Java-284051?style=flat-square&logo=java&logoColor=25515220)
 ![C++](https://img.shields.io/badge/-C++-284051??style=flat-square&logo=mysql)
 ![SQL](https://img.shields.io/badge/-SQL-284051)
 
