@@ -7,5 +7,5 @@
 ![SQL](https://img.shields.io/badge/-SQL-284051)
 
 ### Follow Me
-[![Vkontakte](https://img.shields.io/badge/<LABEL>-<MESSAGE>-466483)](https://vk.com/id234619812) 
-[![Telegram](https://img.shields.io/badge/<LABEL>-<MESSAGE>-466483)](https://t.me/gafram) 
+[![Vkontakte](https://img.shields.io/badge/-vkontakte-466483)](https://vk.com/id234619812) 
+[![Telegram](https://img.shields.io/badge/-Telegram-466483)](https://t.me/gafram) 
