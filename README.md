@@ -10,3 +10,5 @@
 ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/-VKONTAKTE-284051?style=for-the-badge&logo=Vk)](https://vk.com/id234619812) 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-284051?style=for-the-badge&logo=Telegram)](https://t.me/gafram) 
+
+<video src='https://www.youtube.com/watch?v=MgdGgoEVGuM&t=25s' width=180/>
