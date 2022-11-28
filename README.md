@@ -1,5 +1,3 @@
-## I'm studying at Software Engineer at BMSTU
-
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-284051?style=for-the-badge&logo=java&logoColor=FFB414)
