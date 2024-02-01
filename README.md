@@ -1,5 +1,5 @@
 
-### Languages and Tools
+<!-- ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-284051?style=for-the-badge&logo=java&logoColor=FFB414)
 ![C++](https://img.shields.io/badge/-C++-284051?style=for-the-badge&logo=C%2b%2b&logoColor=6295CC)
 ![Python](https://img.shields.io/badge/-Python-284051?style=for-the-badge&logo=Python&logoColor=FFB414)
@@ -9,4 +9,4 @@
 [![Vkontakte](https://img.shields.io/badge/-VKONTAKTE-284051?style=for-the-badge&logo=Vk)](https://vk.com/id234619812) 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-284051?style=for-the-badge&logo=Telegram)](https://t.me/gafram) 
 
-<video src='https://www.youtube.com/watch?v=MgdGgoEVGuM&t=25s' width=180/>
+<video src='https://www.youtube.com/watch?v=MgdGgoEVGuM&t=25s' width=180/> -->
